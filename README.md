@@ -1,2 +1,3 @@
 # Istudy
- Complete Frontend site
+
+ Complete Frontend site with the help of HTML, CSS and JS
